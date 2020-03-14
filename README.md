@@ -38,6 +38,8 @@ Development][bhtmux2] by [@bphogan].
 [bhtmux2]: https://pragprog.com/book/bhtmux2/tmux-2
 [@bphogan]: https://twitter.com/bphogan
 
+If you're on Arch Linux, please read the [Documents](https://wiki.archlinux.org/index.php/Powerline#Zsh).
+
 Troubleshooting
 ---------------
 
